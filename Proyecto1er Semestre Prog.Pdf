@@ -1,0 +1,26 @@
+﻿Proyecto de Programación 1er Semestre
+Nombre: Dylan Ramsés Cabrera Morales
+Grupo:122
+Este proyecto consiste en un sistema de recuperación de información que tiene como objetivo realizar una búsqueda en un conjunto de archivos. La idea central de este es facilitar la búsqueda del usuario y hacerla lo más óptima posible. La interfaz gráfica ha sido programada en su mayoría con HTML y CSS, mientras que el código de la búsqueda fue implementado en C#.
+Para ejecutar el proyecto se debe leer README.md
+Las clases utilizadas para la lógica del proyecto son: ProcesarDocumentos, Busqueda, Consulta, Moogle, SearchItem y SearchResult, Matriz
+Al ejecutarse el proyecto inmediatamente se procede a llamar la clase ProcesarDocumentos. Dicha clase es la encargada de almacenar todo los archivos de texto que se encuentran ubicados en la carpeta Content en una Lista que contiene una Lista de las palabras de cada documento(Lista de Listas).
+Este proceso lo realiza el método CargarDocumentos de la clase ProcesarDocumentos. En este se ejecutan las siguientes funciones:
+  	. LeerTextos: Devuelve una lista de documentos que contiene un listado de cada palabra que aparece en un documento. Para lograr esto, se invocan los métodos ObtenerDocumentos y Tokenizar. ObtenerDocumentos devuelve las rutas de todos los documentos de la carpeta Content, mientras que Tokenizar se encarga de evitar la aparición de signos de puntuación(esto lo realiza mediante la función ModificarTexto) y luego separa las palabras y las almacena en una lista de palabras
+	. CalcularTFIDF: Su objetivo es calcular el TFIDF de todos los documentos (Este algoritmo es explicado con detalle en Wikipedia y otras páginas web). Al finalizar su ejecución tendremos los valores del TF almacenados en una lista de diccionarios y el IDF en un diccionario independiente
+	.TFIDF: Devuelve una lista de diccionarios con el valor del TFIDF de cada documento
+	. Magnitud_Documentos: A partir del empleo del modelo vectorial, este método calcula la magnitud de un documento y lo devuelve como un array de valores de tipo double. Este es un cálculo que solo se ejecuta una vez ya que no depende de la búsqueda.    
+Con esta información almacenada, se proceden a ejecutar las instrucciones de la clase Moogle. Una vez se introduce la búsqueda la clase Moogle llama al método Tokenizar de la clase ProcesarDocumentos, para separar las palabras de la query y almacenarlas en una lista de palabras. Luego se ejecutan una serie de funciones de la clase Consulta :
+	.TFIDF_Query: Se encarga de calcular el TFIDF de la query
+	.Magnitud_Query:Calcula la magnitud query
+	.SimilitudCosenos:Emplea el modelo vectorial para calcular la similitud de cosenos de los documentos y lo devuelve como un array de double
+En este punto ya tendremos los documentos más relevantes con respecto a la búsqueda, donde entra en juego la clase Busqueda para obtener un fragmento del documento que contiene parte de la búsqueda. Desde la clase principal Moogle se llaman los siguientes métodos de Busqueda :
+	. PosiciondelosDocumentosImportantes: Es el método que devuelve la posición que ocupan en el array de similitud de cosenos los documentos más importantes. Si no se encuentra ningún documento similar retorna -1
+A partir de aquí se divide en dos variantes: si se encuentran los resultados y si no se encuentran
+Si son encontrados:
+	.DocumentosmasImportantes: Devuelve la ruta de los documentos más importantes ordenados
+	.ObtenerSnippet: Devuelve un fragmento del texto original que contenga parte del query
+Si no son encontrados:
+Se aplica un algoritmo de distancia entre palabras para encontrar aquellas que más se parecen a la query. Se llama al método Sugerencia de la clase Consulta que realiza esta función mediante el método Similar. Esto permite al usuario la opción de realizar una nueva búsqueda que si tendrá resultados
+La clase Matriz nunca se utiliza. Fue implementada para la evaluación de álgebra
+
