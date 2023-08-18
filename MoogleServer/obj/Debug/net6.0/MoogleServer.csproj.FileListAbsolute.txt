@@ -1,0 +1,95 @@
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/staticwebassets.pack.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll

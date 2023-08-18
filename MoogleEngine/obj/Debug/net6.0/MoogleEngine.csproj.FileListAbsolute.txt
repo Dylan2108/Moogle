@@ -1,0 +1,36 @@
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/dylan/Escritorio/moogle-Dylan/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/dylan/Escritorio/moogle mejorado/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/dylan2108/Escritorio/Practicas-master/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
