@@ -1,0 +1,12 @@
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/bin/Debug/net8.0/MoogleEngine.deps.json
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/bin/Debug/net8.0/MoogleEngine.dll
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/bin/Debug/net8.0/MoogleEngine.pdb
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/MoogleEngine.AssemblyInfo.cs
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/MoogleEngine.sourcelink.json
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/MoogleEngine.dll
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/refint/MoogleEngine.dll
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/MoogleEngine.pdb
+/home/dylan/Descargas/Prueba/Moogle/MoogleEngine/obj/Debug/net8.0/ref/MoogleEngine.dll

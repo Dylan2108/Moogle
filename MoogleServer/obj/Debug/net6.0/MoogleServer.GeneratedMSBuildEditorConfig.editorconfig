@@ -9,33 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MoogleServer
 build_property.RootNamespace = MoogleServer
-build_property.ProjectDir = /home/dylan2108/Escritorio/Practicas-master/MoogleServer/
+build_property.ProjectDir = /home/dylan/Descargas/Prueba/Moogle/MoogleServer/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/dylan2108/Escritorio/Practicas-master/MoogleServer
+build_property.MSBuildProjectDirectory = /home/dylan/Descargas/Prueba/Moogle/MoogleServer
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/dylan2108/Escritorio/Practicas-master/MoogleServer/App.razor]
+[/home/dylan/Descargas/Prueba/Moogle/MoogleServer/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dylan2108/Escritorio/Practicas-master/MoogleServer/_Imports.razor]
+[/home/dylan/Descargas/Prueba/Moogle/MoogleServer/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dylan2108/Escritorio/Practicas-master/MoogleServer/Pages/Index.razor]
+[/home/dylan/Descargas/Prueba/Moogle/MoogleServer/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3asepffdpk
 
-[/home/dylan2108/Escritorio/Practicas-master/MoogleServer/Shared/MainLayout.razor]
+[/home/dylan/Descargas/Prueba/Moogle/MoogleServer/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-gaqtyc956i
 
-[/home/dylan2108/Escritorio/Practicas-master/MoogleServer/Pages/_Host.cshtml]
+[/home/dylan/Descargas/Prueba/Moogle/MoogleServer/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dylan2108/Escritorio/Practicas-master/MoogleServer/Pages/_Layout.cshtml]
+[/home/dylan/Descargas/Prueba/Moogle/MoogleServer/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
